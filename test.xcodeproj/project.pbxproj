@@ -414,6 +414,7 @@
 				A56069C71AF9EF0000B0526B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A56069C81AF9EF0000B0526B /* Build configuration list for PBXNativeTarget "testTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				A56069CA1AF9EF0000B0526B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
